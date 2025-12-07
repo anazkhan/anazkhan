@@ -1,15 +1,48 @@
-### Hi there 👋
+👋 Hi, I'm Anas — Full-Stack AI Engineer
+
+I build end-to-end AI systems across Computer Vision, LLMs, and scalable backend engineering. I specialize in real-time video analytics, agentic AI systems, and deploying production-ready AI applications.
+
+🚀 What I Do
+
+🧠 LLM Engineering
+
+Build AI agents and RAG systems
+
+LLM fine-tuning & inference optimization
+
+Deploying LLM services at scale
+
+👁️ Computer Vision
+
+Image + video analytics
+
+DeepStream pipelines (real-time detection, tracking, processing)
+
+Custom model development & optimization
+
+⚡ GPU & Performance
+
+Learning CUDA for custom GPU kernels
+
+Speeding up CV + LLM workloads
+
+🛠️ Full-Stack AI Engineering
+
+Backend: FastAPI, microservices, system design
+
+DevOps: Docker,Kubernetes, CI/CD, cloud, GPU server setup
+
+Shipping AI applications from prototype to production
+
+🧩 Tech Stack
+
+AI/LLM: PyTorch, TensorRT, Transformers, LangChain, Langraph
+CV: OpenCV, DeepStream, YOLO
+Backend: FastAPI, PostgreSQL, Redis, Kafka
+DevOps: Docker, Kubernetes, Nginx, Linux , Github actions.
 
 
-**anazkhan/anazkhan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+📬 Contact
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on Machine Learning Projects 
-- 🌱 I’m currently learning Deep Learning,Artificial Intelligence,NLP
-- 👯 I’m looking to collaborate on Machine Learning Projects
-- 🤔 I’m looking for help with Deep Learning,Artificial Intelligence
-- 💬 Ask me about Data Science,Statistics,Machine Learning
-- 📫 How to reach me: https://www.linkedin.com/in/anas-khan-6383a0227
--.
-
+Email: ayanapple1@gmail.com
+phone: 7994203370
