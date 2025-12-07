@@ -45,4 +45,5 @@ DevOps: Docker, Kubernetes, Nginx, Linux , Github actions.
 📬 Contact
 
 Email: ayanapple1@gmail.com
+
 phone: 7994203370
