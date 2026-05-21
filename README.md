@@ -2,7 +2,7 @@
 
 I build end-to-end AI systems across Computer Vision, LLMs, and scalable backend engineering. I specialize in real-time video analytics, agentic AI systems, and deploying production-ready AI applications.
 
-🚀 What I Do
+What I Do
 
 🧠 LLM Engineering
 
